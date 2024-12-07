@@ -1,4 +1,4 @@
-# Comparative Generalization Bounds for Deep Neural Networks
+# Norm-based Generalization Bounds for Compositionally Sparse Neural Networks
 
 ## Requirements
 - Python 3.10
